@@ -1,0 +1,13 @@
+{
+    "template": {
+        "name": "My front builder",
+        "topic": "no-code",
+        "navbarItems":[
+            {
+                "value": "Dashboard",
+                "href": "/home"
+            }
+        ]
+    }
+
+}

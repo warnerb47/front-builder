@@ -1,0 +1,14 @@
+{
+    "template": {
+        "name": "My front builder",
+        "topic": "no-code",
+        "type": "navbar-footer",
+        "navbar":{
+            "justifyContent": "space-around"
+        },
+        "footer":{
+            "justifyContent": "space-around"
+        }
+    }
+
+}
